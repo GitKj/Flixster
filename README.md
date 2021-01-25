@@ -52,7 +52,7 @@ Describe any challenges encountered while building the app.
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-<img src="https://i.imgur.com/6PdcOTz.mp4" width=250><br>
+<img src="walkthrough.gif" width=250><br>
 
 ### Notes
 No challenges building, it was fun.
